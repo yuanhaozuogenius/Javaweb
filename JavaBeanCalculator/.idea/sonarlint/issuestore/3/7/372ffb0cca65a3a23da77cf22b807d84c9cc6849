@@ -1,0 +1,9 @@
+
+b	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(ï¦ä­8¸ğ»Ó¶/
+b	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ï×¬8ºğ»Ó¶/
+C
+java:S2111R"!Use "BigDecimal.valueOf" instead.(Ä€•—ûÿÿÿÿ8“ñ»Ó¶/
+R
+java:S1874R"0Remove this use of "setScale"; it is deprecated.(Ä€•—ûÿÿÿÿ8ñ»Ó¶/
+W
+java:S1874S"5Remove this use of "ROUND_HALF_UP"; it is deprecated.( “Äşÿÿÿÿ8ñ»Ó¶/
